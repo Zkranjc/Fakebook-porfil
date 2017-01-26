@@ -1,0 +1,22 @@
+.oblika1 {
+  color: red;
+  background-color: blue;
+  font-family: Verdana;
+}
+.oblika2 {
+  color: red;
+  background-color: yellow;
+  font-family: Verdana;
+}
+.oblika3 {
+  font-weight: bold;
+  font-style: italic;
+  border: 2px orange dashed;
+  padding: 10px;
+}
+p {
+  color:purple;
+}
+img {
+  border: color:red;
+}
